@@ -3,7 +3,7 @@ Captura pantalla de la PC con python
 requerimienos:
  cv2
  glob
- numpy as np
+ numpy 
  pyautogui
  ------------------------------
  Estos paquetes no vienen agregados a python, para tenerlos solo debes
